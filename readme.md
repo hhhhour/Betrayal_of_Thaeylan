@@ -13,3 +13,4 @@ This is the prequel to [Order of Oerbrae](https://forums.wesnoth.org/viewtopic.p
 ## Credits
 
 - Elite Peltast unit sprite from [War of Legends](https://github.com/knyghtmare/War_of_Legends).
+- Whelp unit sprite by Ranger M from [Imperial Era](https://units.wesnoth.org/1.18/Imperial_Era/en_US/IE_Arendian_Druid.html).
