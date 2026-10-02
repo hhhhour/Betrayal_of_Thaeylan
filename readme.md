@@ -8,7 +8,7 @@ When the king's foolish pact with Orcish mercenaries goes wrong, the commander o
 
 He will journey into the lawless frontier with his closest advisor, Synn, a pathfinder with a history in the outlands. To restore the Thaeylan kingdom, Muhyrim must rely on the very bandits he once opposed.
 
-This is the prequel to [Order of Oerbrae](https://forums.wesnoth.org/viewtopic.php?p=70646).
+This is the prequel to [Order of Oerbrae](https://forums.wesnoth.org/viewtopic.php?t=55565).
 
 ## Credits
 
